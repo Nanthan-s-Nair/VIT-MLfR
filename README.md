@@ -16,7 +16,7 @@ VIT-MLFR/
 │   ├── MLP.ipynb                   # Multi-layer perceptron implementation
 │   └── SLP.ipynb                   # Single-layer perceptron implementation
 │
-├── BankChurners.csv                # Dataset for customer churn analysis
+├── BankChurners.csv                # Dataset for customer churn analysis(classification dataset)
 ├── DecisionTree.ipynb              # Decision tree classification example
 ├── Dendogram_Clustering.ipynb      # Hierarchical clustering with dendrograms
 ├── KNN.ipynb                       # K-nearest neighbors algorithm 
@@ -28,7 +28,8 @@ VIT-MLFR/
 ├── README.md                       # Overview and details of the repository
 ├── Student_performance_data_.csv   # Dataset for regression
 ├── SVM.ipynb                       # Support vector machine implementation
-└── wine_pca.csv                    # Dataset for PCA analysis on wine data
+├── wine_pca.csv                    # Dataset for PCA analysis on wine data
+└── Bagging.ipynb                   # Bagging Classifier Notebook
 ```
 
 ## Datasets
